@@ -44,7 +44,7 @@ require (
 	github.com/powerman/rpc-codec v1.2.2
 	github.com/prometheus/client_golang v1.22.0
 	github.com/prometheus/common v0.64.0
-	github.com/prometheus/procfs v0.16.1
+	github.com/prometheus/procfs v0.18.0
 	github.com/seccomp/libseccomp-golang v0.10.0
 	github.com/spf13/cast v1.6.0
 	github.com/spf13/cobra v1.8.1
@@ -58,7 +58,7 @@ require (
 	golang.org/x/crypto v0.39.0
 	golang.org/x/exp v0.0.0-20250606033433-dcc06ee1d476
 	golang.org/x/net v0.41.0
-	golang.org/x/sync v0.15.0
+	golang.org/x/sync v0.17.0
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20240903143218-8af14fe29dc1
 	google.golang.org/grpc v1.68.0
 	google.golang.org/grpc/security/advancedtls v0.0.0-20221004221323-12db695f1648
@@ -200,7 +200,7 @@ require (
 	go.uber.org/mock v0.5.2 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
 	golang.org/x/mod v0.25.0 // indirect
-	golang.org/x/sys v0.33.0 // indirect
+	golang.org/x/sys v0.37.0 // indirect
 	golang.org/x/text v0.26.0 // indirect
 	golang.org/x/time v0.12.0 // indirect
 	golang.org/x/tools v0.34.0 // indirect
